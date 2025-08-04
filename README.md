@@ -1,7 +1,5 @@
+## 🚀 Just launched "AI Vision Sentinel" - a real-time facial recognition system with Wikipedia integration!
 
-**Headline:** 🚀 Just launched "AI Vision Sentinel" - a real-time facial recognition system with Wikipedia integration!
-
-**Body:**
 
 Excited to share my latest project: **AI Vision Sentinel**! This innovative system combines computer vision with web scraping to create an intelligent facial recognition solution.
 
